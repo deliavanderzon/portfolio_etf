@@ -1,2 +1,11 @@
-# stockAPI
-Implement usage of API integration to better interpret finc. info
+# portfolio_etf
+
+
+
+
+Usage of:
+- black scholes model
+- sharpe ratio
+- black-litterman model
+- monte carlo simulation
+- volatility
